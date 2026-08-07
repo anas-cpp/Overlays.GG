@@ -1,7 +1,7 @@
 export const SITE = {
   name: 'Overlays.GG',
   tagline: 'Premium Digital Gaming Assets',
-  whatsappNumber: '923001234567',
+  whatsappNumber: '923312158127',
   email: 'hello@overlays.gg',
   socials: {
     instagram: 'https://instagram.com/overlays.gg',
